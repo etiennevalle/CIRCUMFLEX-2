@@ -97,4 +97,4 @@
 ```
 
 ![]
-(https://img.freepik.com/foto-gratis/codificacion-programas-informaticos-pantalla_53876-138060.jpg?w=740&t=st=1674127054~exp=1674127654~hmac=9bf7ff8fbf27c467c25c628cc7af10bb82c2a4e1544634964b0baec9018463d8(https://pandao.github.io/editor.md/examples/images/4.jpg)
+( https://img.freepik.com/foto-gratis/codificacion-programas-informaticos-pantalla_53876-138060.jpg?w=740&t=st=1674127054~exp=1674127654~hmac=9bf7ff8fbf27c467c25c628cc7af10bb82c2a4e1544634964b0baec9018463d8(https://pandao.github.io/editor.md/examples/images/4.jpg )
